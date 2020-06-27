@@ -45,6 +45,8 @@ Für 2-3 Patties:**
 * Ein Schuss Säure (Zitrone, Limette oder Essig)
 * 1/2 TL Sesamöl (optional)
 
+**Zubereitung:**
+
 1. Die Bohnen in einem sieb ordentlich abwaschen und kurz abtropfen lassen
 2. Die Bohnen auf einem mit Backpapier ausgelegeten Backblech ausbreiten und in den Backofen bei 180°C dehydrieren für ca. 15-20 Minuten. Die Bohnen sind fertig, wenn die Hülsen aufgeplatzt und außen leicht knusprig sind. Hier muss man vorsichtig sein, um de Bohnen nicht zu stark auszutrocknen. In einer großen Schüssel zu Weiterverarbeitung abkühlen lassen.
 3. Die Champignos in kleine Würfel schneiden und in einer Pfanne mit 2-3 TL Öl bei hoher Hitze anbraten. Gewürzt wird nur ordentlich viel schwarzem Pfeffer. Durch das scharfe Anbraten der erzeugen wir die Röstaromen, die einen Fleischähnlichen deftigen Geschmack geben. Daher ist es wichtig, dass die Pilze eine ordentliche Kruste bekommen und nicht latschig weich gekocht werden. Wenn es in der Küche verraucht ist, dann habt ihr alles richtig gemacht. Die Pilze sollten nach ca. 5-8 Minuten fertig sein, wenn sie deutlich in der Größe geschrumpft und außen eine goldbraune btw. dunkle Kruste haben. Zum Abkühlen  in die Schüssel zu den Bohnen dazugeben
