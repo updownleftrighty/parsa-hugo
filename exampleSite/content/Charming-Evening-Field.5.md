@@ -41,3 +41,5 @@ Hat euch jemand schon mal so ne kranke Pizza in Mannheim serviert? I doubt it!!
 13. Den Teig ganz vorsichtig in die Pfanne legen und bei Bedarf nachformen. Wir empfehlen, den Teig entwas kleiner als die Pfanne zu formen und den letzten "feinschliff" in der Pfanne zu machen. Der Teig wird beim rüberheben sowieso etwas gedehnt und dadurch größer. Wer Glück hat, der  hat zu Hause eventuell eine Pizzaschaufel.
 14. Die Pizza in der  Pfanne mit Soße, Käse und Co. belegen, während sie gleichzeitig von unten schön knusprig wird.
 15. Nach 3-4 Minuten sollte die Pizza unten schön braun sein, dann kann man sie auch ganz leicht herausheben und in den Backofen schieben. Sie brauch nur 2-4 Minuten im Backofen, weil die Pizza ganz kurz aber dafür extrem heiß von oben gebacken wird. Ihr seht an der Farbe der Pizza, wann sie fertig ist!
+
+    ![](/images/pizza2.jpeg)
