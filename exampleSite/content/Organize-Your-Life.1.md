@@ -3,7 +3,7 @@ title: Binan's Kitchen neu erleben!
 date: 2019-06-27T08:46:10.000+00:00
 description: ''
 type: featured
-image: "/images/whatsapp-image-2020-06-27-at-16-04-22.jpeg"
+image: "/images/wir.jpeg"
 categories:
 - blog
 tags:
