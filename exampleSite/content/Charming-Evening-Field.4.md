@@ -1,8 +1,9 @@
 ---
 title: Kichererbsen Tabuleh-Style
 date: 2019-05-14T14:46:10.000+06:00
-description: Knackig geröstete Kichererbsen mit cremiger Joghurtsauce und saftigem
-  Salat-Topping. Schnell, einfach und gesund!
+description: Der Kontrast zwischen knusprig-würzigen Kicherebsen und frischem Joghurt
+  und Salat macht süchtig. Dazu selbstgemachtes Naan Brot zum dippen. Schnell, einfach
+  und gesund. Perfekt zum vorbereiten für die Mittagspause im Büro!
 type: post
 image: "/images/gerostete-kichererbsen.jpg"
 categories:
@@ -17,10 +18,7 @@ tags:
 ---
 > **Zutaten:**
 >
->   
-> Für die Kichererbsen:
->
-> \- Beschichtete Pfanne
+> **Für die Kichererbsen:**
 >
 > \- 1 Dose Kichererbsen
 >
@@ -36,9 +34,9 @@ tags:
 >
 > \- Optional ½ TL Cayenne-Pfeffer
 >
-> \- Frische Kräuter (**Petersilie**, Koriander, Schnittlauch, Minze, Basilikum)
+> \- Frische Kräuter (Petersilie, Koriander, Schnittlauch, Minze, Basilikum)
 >
-> Für den Joghurt:
+> **Für den Joghurt:**
 >
 > \- 250 g Griechischer/ türkischer Joghurt (hoher Fettgehalt)
 >
@@ -47,7 +45,7 @@ tags:
 > \- Prise Salz  
 > Zubereitung: Zutaten miteinander vermischen.
 >
-> Für das Salat-Topping:
+> **Für das Salat-Topping:**
 >
 > \- ¼ Gurke
 >
