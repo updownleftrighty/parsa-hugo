@@ -15,10 +15,10 @@ tags:
 - gesund
 
 ---
-> **Kichererbsen Tabuleh-Style**
+> **Zutaten:**
 >
-> **Zutaten:**   
->  Für die Kichererbsen:
+>   
+> Für die Kichererbsen:
 >
 > \- Beschichtete Pfanne
 >
@@ -45,7 +45,7 @@ tags:
 > \- Ein Schuss Zitronensaft
 >
 > \- Prise Salz  
->  Zubereitung: Zutaten miteinander vermischen.
+> Zubereitung: Zutaten miteinander vermischen.
 >
 > Für das Salat-Topping:
 >
@@ -58,10 +58,10 @@ tags:
 > \- Etwas Pfeffer
 >
 > \- Prise Zucker  
->  Zubereitung: Gurke und Zwiebel in dünne Scheiben schneiden und in eine kleine Schüssel geben. Mit den restlichen Zutaten vermischen.
+> Zubereitung: Gurke und Zwiebel in dünne Scheiben schneiden und in eine kleine Schüssel geben. Mit den restlichen Zutaten vermischen.
 >
 > **Anleitung:**  
->  _Bearbeitungszeit: ca. 20 Minuten_
+> _Bearbeitungszeit: ca. 20 Minuten_
 >
 > _Ca. 2 Personen_
 >
@@ -78,5 +78,3 @@ tags:
 > 6\. Die Kichererbsen weitere 10 Minuten anbraten bis sie goldbraun sind und eine schöne Kruste haben. Herd ausschalten und Pfanne vom Herd nehmen.
 >
 > 7\. Zuletzt hackst du die frischen Kräuter grob klein und gibst sie anschließend auch zu den Kichererbsen. Fertig!
-
-![](../images/post-img.jpg)
