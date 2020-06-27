@@ -58,7 +58,7 @@ tags:
 > \- Prise Zucker  
 > Zubereitung: Gurke und Zwiebel in dünne Scheiben schneiden und in eine kleine Schüssel geben. Mit den restlichen Zutaten vermischen.
 >
-> **Anleitung:**  
+> **Zubereitung:**  
 > _Bearbeitungszeit: ca. 20 Minuten_
 >
 > _Ca. 2 Personen_
