@@ -33,6 +33,9 @@ Hat euch jemand schon mal so ne kranke Pizza in Mannheim serviert? I doubt it!!
 10. Ein bis zwei Stunden vor dem Backen sollte man den Teig in zwei gleichgroße Stücke teilen. Vorsichtig zwei Bälle daraus formen und darauf achten, nicht zu viel zu kneten. Der Teig hat lange gebraucht, um die ganze Luft darin zu erzeugen. die möchten wir jetzt nicht am Schluss der Reise wieder rauskneten. Die Bällchen auf ein Backblech legen und von allen Seiten leicht mit Olivenöl bepinseln. Mit Frischhaltefolie abdecken. Das verhindert, dass der Teig an der Oberfläche austrocknet und eine harte Kruste formt.
 
     **Ab diesem Schritt ist es euch überlassen, wie ihr die Pizza ausrollen und backen wollt. Wir haben im Laufe von etlichen unzufriedenen Versuchen die folgende Methode für die optimale Backweise für uns festgestellt:**
+
+    **  
+    ![](/images/pizza5.jpeg)**
 11. Den Backofen auf die höchste Stufe und Ober-/Unterhitze vorheizen. Das Backblech (optional mit Pizzastein) auf die höchste Schiene schieben. Gleichzeitg eine Gusseisenpfanne (oder andere stark erhitzbare Pfanne) vorheizen auf hoher Stufe.
 12. Die Teigbällchen mit den Händen ausrollen, indem man sie einfach von der Mitte aus nach außen flach drückt. Wir schieben sozusagen die Luft und die Masse des Teiges nach außen. Wichtig ist es, nicht ganz bis zum Rand vorzukneten, sondern ca. 2 cm fluffigen Rand zu lassen.
 13. Den Teig ganz vorsichtig in die Pfanne legen und bei Bedarf nachformen. Wir empfehlen, den Teig entwas kleiner als die Pfanne zu formen und den letzten "feinschliff" in der Pfanne zu machen. Der Teig wird beim rüberheben sowieso etwas gedehnt und dadurch größer. Wer Glück hat, der  hat zu Hause eventuell eine Pizzaschaufel.
