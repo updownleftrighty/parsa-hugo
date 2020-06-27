@@ -1,5 +1,5 @@
 ---
-title: Vegetarische Tacos
+title: 'Vegetarische Tacos aus Weizentortillas mit Sojahack '
 date: 2019-05-14T14:46:10.000+06:00
 description: Diese vegetarische Variante des klassischen Tacos wird euch nicht enttäuschen.
   Zart, deftig und voller Aroma und frische. Perfekt abgerundet mit selbstgemachten
