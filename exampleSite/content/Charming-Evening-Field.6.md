@@ -5,7 +5,7 @@ description: 'Hört auf euch zu beschweren, dass ihr zu broke seid und fagt an e
   eigenen Snack-Rolls herzustellen! Das perfekte Fingerfood für alle, die nicht abnehmen
   wollen. Bonus: The reveal of the ''secret sauce''.'
 type: post
-image: images/masonary-post/post-7.jpg
+image: "/images/snack-rolls.jpg"
 categories:
 - Food
 tags:
