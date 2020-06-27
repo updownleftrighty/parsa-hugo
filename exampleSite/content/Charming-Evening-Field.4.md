@@ -4,7 +4,7 @@ date: 2019-05-14T14:46:10.000+06:00
 description: Knackig geröstete Kichererbsen mit cremiger Joghurtsauce und saftigem
   Salat-Topping. Schnell, einfach und gesund!
 type: post
-image: images/masonary-post/post-5.jpg
+image: "/images/gerostete-kichererbsen.jpg"
 categories:
 - Food
 tags:
