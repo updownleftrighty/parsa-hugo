@@ -20,8 +20,8 @@ Die neuen Features:
 * Neues Web-Design
 * Neue Rezepte
 * Suchfunktion und Filterfunktion
-* Blog 
+* Blog
 
-Wir legen viel Wert auf eine ausgewogene und gesunde Ernährung setzen. Daher werden auch die Rezepte auf unserer Webseite sehr bunt durchmischt und abwechslungsreich sein. Von babbisch fleischig bis vegan ist alles dabei.
+Wir legen viel Wert auf eine ausgewogene und gesunde Ernährung. Daher werden auch die Rezepte auf unserer Webseite sehr bunt durchmischt und abwechslungsreich sein. Von babbisch fleischig bis vegan ist alles dabei.
 
 **Viel Spaß**
