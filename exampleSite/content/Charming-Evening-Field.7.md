@@ -15,59 +15,60 @@ tags:
 **Zutaten:**
 
 **Für die Bohnen:  
-**- 1 Dose weiße (Riesen-)Bohnen  
-\- 2 EL Olivenöl  
+**- 2 EL Olivenöl  
+\- 1 Dose weiße (Riesen-)Bohnen  
 \- 1 Zehe Knoblauch  
 \- Ordentlich Salz und schwarzer Pfeffer  
-\- 1 TL Kreuzkümmel  
-\- Optional ½ TL Cayenne-Pfeffer  
+\- 1 TL gemahlener Kreuzkümmel  
 \- ½ TL Kurkuma  
-\- ½ TL Korianderpulver
+\- ½ TL gemahlener Koriander  
+\- Optional ½ TL Cayenne-Pfeffer
 
 **Für die Salsa:  
 **- 2 Tomaten  
-\- 2-3 Bund frischer Koriander oder Petersilie  
 \- 1 große weiße oder rote Zwiebel  
+\- 2-3 Bund frischer Koriander oder Petersilie  
 \- 1 Limette
 
-**Für die Paprika  
-**- 2 Paprika  
+**Für die Paprika:  
+**- 2 EL Olivenöl  
+\- 2 Paprika  
 \- 1 weiße Zwiebel  
-\- 2 EL Olivenöl  
-\- Etwas Pfeffer und Salz  
 \- 1 TL Tomatenmark  
-\- ½ TL Cayenne Pfeffer
+\- ½ TL Cayenne Pfeffer  
+\- Etwas Pfeffer und Salz
 
 **Für die restlichen Beilagen:  
-**- 250g Reis  
+**- 250 g Reis  
 \- 1 Avocado  
 \- 1 kleine Dose Mais  
-\- 1 Strang Lauchzwiebel  
+\- 1 Strang Lauchzwiebeln  
 \- Frische Kräuter nach Wahl  
 \- Optional: Hot-Sauce
 
 **Zubereitung:   
+  
 Für die Bohnen:**
 
-1. Die Pfanne auf mittlere Stufe vorheizenn. Anschließend die gehackte Knoblauchzehe für 1 Minute andünsten
-2. in einem Sieb die Bohnen abtropfen und mit Wasser waschen. Anschließend mit in die Pfanne geben.
-3. Alle Gewürze dazugeben und gut verrühren.
-4. Nach ca. 5-7 Minuten sollte alles eine schöne orangene Farbe besitzen und aromatisch riechen - Fertig!
+1. Das Olivenöl in einer Pfanne auf mittlerer Stufe vorheizen. Anschließend die gehackte Knoblauchzehe für eine Minute darin andünsten.
+2. Die Bohnen in einem Sieb mit Wasser abwaschen und gut abtropfen lassen. Zum Knoblauch in die Pfanne geben.
+3. Alle Gewürze hinzugeben und gut verrühren.
+4. Nach ca. 5-7 Minuten sollte alles eine schöne orange Farbe besitzen und aromatisch riechen - Fertig!
 
-**Für die Salsa**
+**Für die Salsa:**
 
-1. Die Zwiebeln, Tomaten und frichen Kräuter so fein wie möglich würfeln bzw. hacken.
-2. In einer kleinen Schüssel mit dem Saft von einer Limette vermischen
+1. Die Zwiebeln, Tomaten und frischen Kräuter so fein wie möglich würfeln bzw. hacken.
+2. In einer kleinen Schüssel mit dem Saft von einer Limette vermischen.
 3. Eine Prise Salz, Pfeffer und Zucker dazugeben.
 
    **Für die Paprika:**
 
 
-1. Die Zwiebel in einer Pfanne auf mittlerer Stufe andünsten.
-2. Anschließend die in Streifen geschnittenen Paprika mit dazu geben und die Pfanne eine Stufe höher stellen.
-3. Wenn die Paprika schön weich sind, das Tomatenmark und die restlichen Gewürze dazugeben und gut verteilen. Ein kleiner Schluck Wasser hilft dabei, alles besser aufzulösen.
+1. Die Zwiebel in einer Pfanne auf mittlerer Stufe in dem Olivenöl andünsten.
+2. Anschließend die in Streifen geschnittenen Paprika dazu geben und die Pfanne eine Stufe höher stellen.
+3. Wenn die Paprika schön weich sind, kannst du das Tomatenmark und die restlichen Gewürze untermischen und gut verteilen. Ein kleiner Schluck Wasser hilft dabei, alles besser aufzulösen.
 
-**Anrichten: Bowl**
+**Anrichten der Bowl:**
 
 1. Den Reis als Basis in eine Schüssel geben.
 2. Darauf verteilen wir die Bohnen, Paprika, Salsa und restlichen Beilagen.
