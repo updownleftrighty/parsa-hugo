@@ -3,7 +3,7 @@ title: Fried Chicken mit Coleslaw
 date: 2019-05-14T14:46:10.000+06:00
 description: 'Der All-time-Favorite spricht für sich selbst. '
 type: post
-image: images/masonary-post/post-10.jpg
+image: "/images/frchic.jpeg"
 categories:
 - Food
 tags:
