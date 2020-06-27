@@ -61,7 +61,7 @@ tags:
 > **Zubereitung:**  
 > _Bearbeitungszeit: ca. 20 Minuten_
 >
-> _Ca. 2 Personen_
+> _Für ca. 2 Personen_
 >
 > 1\. Gib zuerst die Kichererbsen in einen Sieb und spüle die Flüssigkeit mit kaltem Wasser ab.
 >
