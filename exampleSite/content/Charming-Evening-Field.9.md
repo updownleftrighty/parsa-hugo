@@ -36,10 +36,10 @@ tags:
 \- Etwas Saft von einer Zitrone  
 \- Salz und schwarzer Pfeffer
 
-**Anleitung:**
+**Zubereitung:**
 
 _Bearbeitungszeit: ca. 2 Stunden  
-Für 4 Personen_
+Für ca. 4 Personen_
 
 1\. Zunächst den Kohl, die Karotten und die Zwiebel möglichst fein hacken oder mit einer Reibe klein reiben. In eine große Schüssel geben und miteinander vermengen.
 
