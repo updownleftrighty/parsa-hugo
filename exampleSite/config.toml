@@ -15,7 +15,7 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "Tasty Street 001"
+address = "Tasty Street 101"
 author = "Binan"
 author_image = "images/banner-img.png"
 bio = "Binan's - established 2010 - based in Mannheim"
