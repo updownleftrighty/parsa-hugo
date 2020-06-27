@@ -12,15 +12,13 @@ tags:
 - schnell
 
 ---
-> **Nudeln mit Käse-Sahne-Sauce**
+> **Zutaten:**
 >
-> **Zutaten**:
+> \- 500 g Nudeln nach Wahl
 >
-> \- 500g Nudeln nach Wahl
+> \- 200 g Sahne
 >
-> \- 200g Sahne
->
-> \- 50g Butter
+> \- 50 g Butter
 >
 > \- 1 Knoblauchzehe
 >
@@ -28,11 +26,11 @@ tags:
 >
 > \- Salz & Pfeffer
 >
-> \- Parmesan
+> \- Parmesankäse
 >
-> **Anleitung:**  
->  _Bearbeitungszeit: ca. 20 Minuten  
->  Ca. 4 Personen_
+> **Zubereitung:**  
+> _Bearbeitungszeit: ca. 20 Minuten  
+> Ca. 4 Personen_
 >
 > 1\. Fülle einen Topf mit Wasser und salze das Wasser ein bisschen mehr als du denkst was genug ist. Bringe das Wasser zum Kochen und koche dann darin die Nudeln.
 >
