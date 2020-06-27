@@ -30,7 +30,7 @@ tags:
 >
 > **Zubereitung:**  
 > _Bearbeitungszeit: ca. 20 Minuten  
-> Ca. 4 Personen_
+> Für ca. 4 Personen_
 >
 > 1\. Fülle einen Topf mit Wasser und salze das Wasser ein bisschen mehr als du denkst was genug ist. Bringe das Wasser zum Kochen und koche dann darin die Nudeln.
 >
