@@ -11,8 +11,10 @@ tags:
 - Fast-Food
 
 ---
-Zutaten:  
-Für 2-3 Patties:
+Wer diesen Burger nur als "Alternative" bezeichnet verletzt unsere Ehre
+
+**Zutaten:  
+Für 2-3 Patties:**
 
 * eine Dose Kidneybohnen oder Schwarzbohnen
 * 4-5 mittelgroße Chamipignons
@@ -26,7 +28,7 @@ Für 2-3 Patties:
 * 3 TL Worcestershire-Soße
 * Salz & Pfeffer
 
-Für den restlichen Burger:
+**Für den restlichen Burger:**
 
 * Brötchen
 * Eisbergsalat
@@ -34,7 +36,7 @@ Für den restlichen Burger:
 * Zwiebel
 * (Cheddar-)Käse
 
-Für die Burgersoße:
+**Für die Burgersoße:**
 
 * 3 EL Mayonnaise
 * 1 TL Tabasco, Sriracha oder eine andere Hot-Sauce (Im Notfall Ketchup)
