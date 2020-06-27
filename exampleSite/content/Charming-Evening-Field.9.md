@@ -1,55 +1,54 @@
 ---
-title: "Charming Evening Field"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "post"
-image: "images/masonary-post/post-10.jpg"
-categories: 
-  - "Food"
+title: Fried Chicken mit Coleslaw
+date: 2019-05-14T14:46:10.000+06:00
+description: 'Der All-time-Favorite spricht für sich selbst. '
+type: post
+image: images/masonary-post/post-10.jpg
+categories:
+- Food
 tags:
-  - "Photos"
-  - "Food"
+- ungesund
+- fleischig
+- Hähnchen
+- Fast-Food
+
 ---
+**Zutaten:**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+**Für das Fried Chicken:**  
+\- 400 g Hähnchenbrust  
+\- Etwas Öl oder Buttermilch zum marinieren  
+\- Ca. 2 ½ Tassen Mehl  
+\- 1 Ei  
+\- Ein Schuss (Mineral-)Wasser  
+\- Gewürze  
+\- ½ - 1 Liter Sonnenblumenöl zum frittieren
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+**Für den Coleslaw:**  
+\- ½ Spitzkohl oder Kopfkohl  
+\- 1-2 Karotten  
+\- 1 weiße Zwiebel  
+\- 4 EL Joghurt (alternativ Miracle Whip)  
+\- 1 TL Mayonnaise  
+\- 50 g Sahne  
+\- 1 TL weißer Balsamico-Essig / Weißweinessig  
+\- ½ TL Olivenöl  
+\- Etwas Saft von einer Zitrone  
+\- Salz und schwarzer Pfeffer
 
+**Anleitung:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+_Bearbeitungszeit: ca. 2 Stunden  
+Für 4 Personen_
 
+1\. Zunächst den Kohl, die Karotten und die Zwiebel möglichst fein hacken oder mit einer Reibe klein reiben. In eine große Schüssel geben und miteinander vermengen.
 
-![](../images/post-img.jpg)
+2\. Dann vermischst du die restlichen flüssigen Zutaten für den Coleslaw in einer separaten Schüssel und gibst die Sauce in die große Schüssel zur Kohl-Mischung. Gut umrühren (am besten mit den Händen liebevoll einmassieren) und mindestens eine Stunde kalt stellen.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+3\. Das Hähnchen schneidest du zuerst in die gewünschte Größe und gibst es dann in eine Schüssel mit etwas Öl oder Buttermilch (je nach Geschmack). Zum marinieren verwenden wir Salz, schwarzen und weißen Pfeffer, edelsüße Paprika und Cayenne-Pfeffer. Gut umrühren und mindestens eine Stunde in den Kühlschrank stellen.
 
+4\. Zum Panieren benötigst du drei flache Schüsseln oder Teller. In die erste gibst du etwas von dem Mehl (ca. 1 Tasse) und würzt dieses mit Salz und schwarzem Pfeffer. In die zweite Schüssel gibst du ein Ei, Wasser und etwas von dem Mehl (ca. ½ Tasse). Miteinander verquirlen und auch mit Salz und schwarzem Pfeffer würzen; Achtung: die Masse sollte „cremig“ genug, aber nicht zu flüssig sein. In die dritte Schüssel kommt das ganze restliche Mehl (ca. 1 Tasse) und wird dann gewürzt mit so ziemlich allem was der Gewürzschrank hergibt. Wir verwenden: Salz, schwarzen und weißen Pfeffer, Cayenne-Pfeffer, Paprikapulver, gemahlener Kreuzkümmel, gemahlener Koriander, Knoblauchpulver, Zwiebelpulver, Chilipulver/-Flocken, Kurkuma, etwas Oregano und Basilikum
 
+5\. Das Hähnchen nun Schüssel für Schüssel, der Reihe nach panieren. Währenddessen kannst du in einem Wok oder einer Pfanne bereits das Öl auf mittlerer Hitze vorheizen.
+
+6\. Wenn das Öl heiß (wichtig!) genug ist kann das Hähnchen frittiert werden. Vorsicht: Die Pfanne nicht zu voll packen, hier ist Geduld gefragt.
