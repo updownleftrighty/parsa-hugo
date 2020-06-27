@@ -4,7 +4,7 @@ date: 2019-05-14T14:46:10.000+06:00
 description: Eine ausgeglichene Mahlzeit, nach der man sich gesättigt und voller Energie
   fühlt. Für diese Art von Gericht hat man immer etwas passendes im Vorratsschrank.
 type: post
-image: images/masonary-post/post-8.jpg
+image: "/images/rice-bowl.jpeg"
 categories:
 - Food
 tags:
