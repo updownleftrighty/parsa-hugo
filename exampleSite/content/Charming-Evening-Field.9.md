@@ -36,6 +36,8 @@ tags:
 \- Etwas Saft von einer Zitrone  
 \- Salz und schwarzer Pfeffer
 
+![](/images/frychk.jpeg)
+
 **Zubereitung:**
 
 _Bearbeitungszeit: ca. 2 Stunden  
