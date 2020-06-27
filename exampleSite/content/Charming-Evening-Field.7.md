@@ -47,7 +47,9 @@ tags:
 \- Optional: Hot-Sauce
 
 **Zubereitung:   
-  
+**_Bearbeitungszeit: ca. 45 Minuten  
+Ca. 2 Personen  
+_**  
 Für die Bohnen:**
 
 1. Das Olivenöl in einer Pfanne auf mittlerer Stufe vorheizen. Anschließend die gehackte Knoblauchzehe für eine Minute darin andünsten.
