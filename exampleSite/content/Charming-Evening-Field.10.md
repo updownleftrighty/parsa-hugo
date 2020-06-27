@@ -5,7 +5,7 @@ description: Diese vegetarische Variante des klassischen Tacos wird euch nicht e
   Zart, deftig und voller Aroma und frische. Perfekt abgerundet mit selbstgemachten
   Weizen-Tortillas und Hot Sauce.
 type: post
-image: images/masonary-post/post-11.jpg
+image: "/images/tacos-vegetarisch-soja.jpg"
 categories:
 - Food
 tags:
