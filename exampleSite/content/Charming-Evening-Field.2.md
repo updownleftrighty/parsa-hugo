@@ -3,7 +3,7 @@ title: Nudeln mit Käse-Sahne-Sauce
 date: 2019-05-14T14:46:10.000+06:00
 description: Leckere Pasta in cremiger Käse-Sahne-Sauce im Handumdrehen!
 type: post
-image: images/masonary-post/post-3.jpg
+image: "/images/kaese-sahne.jpg"
 categories:
 - Food
 tags:
