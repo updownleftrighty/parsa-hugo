@@ -38,7 +38,7 @@ tags:
 > 5. Nach dem Ruhen teilst du deinen Teig in gleichgroße, in etwa Tennisball große Kugeln und lässt diese noch einmal abgedeckt für mindestens 10 Minuten ruhen.
 >
 >    ![](/images/naan.jpeg)
-> 6. Nun sind die Naan Brote bereit ausgerollt und gebacken zu werden. Hierfür die einzelnen Kugeln so dünn wie möglich ausrollen und nacheinander bei hoher Hitze anbraten, bis große Blasen entstehen und die Naan Brote einige bräunliche Stellen haben. (Achtung: hier möglichst kein oder ganz wenig Öl verwenden).
+> 6. Nun sind die Naans bereit ausgerollt und gebacken zu werden. Hierfür die einzelnen Kugeln so dünn wie möglich ausrollen und nacheinander bei hoher Hitze anbraten, bis große Blasen entstehen und die Naan Brote einige bräunliche Stellen haben. (Achtung: hier möglichst kein oder ganz wenig Öl verwenden).
 >
 >    ![](/images/naanflip-1.gif)
 >
