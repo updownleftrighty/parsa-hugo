@@ -1,6 +1,6 @@
 ---
 title: Köttbullar mit Kartoffelstampf
-date: 2020-06-27T08:46:10.000+00:00
+date: 2019-09-18T08:46:10+00:00
 description: Selbstgemachte schwedische Fleischbällchen mit fluffigem Kartoffelpürre
   in der besten Rahmsoße, die ihr jemals probiert habt. Ikea kann einpacken.
 type: post
