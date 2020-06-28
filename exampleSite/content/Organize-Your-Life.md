@@ -11,3 +11,5 @@ tags:
 
 ---
 Inspirationen die wir mit nach Hause gebracht haben.
+
+> **Beitrag folgt**
