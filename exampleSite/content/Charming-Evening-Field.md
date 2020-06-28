@@ -12,4 +12,6 @@ tags:
 ---
 > Unsere vegane Interpretation des beliebten chinese-american Fast Food Gerichts "Orange Chicken".
 
+> **Rezept folgt**
+
 ![](/images/oc2.jpeg)
