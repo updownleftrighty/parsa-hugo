@@ -14,8 +14,8 @@ tags:
 ---
 **Zutaten:**
 
-\**Für die Bohnen:  
-\**- 2 EL Olivenöl  
+**Für die Bohnen:**_  
+_- 2 EL Olivenöl  
 \- 1 Dose weiße (Riesen-)Bohnen  
 \- 1 Zehe Knoblauch  
 \- Ordentlich Salz und schwarzer Pfeffer  
@@ -24,22 +24,22 @@ tags:
 \- ½ TL gemahlener Koriander  
 \- Optional ½ TL Cayenne-Pfeffer
 
-\**Für die Salsa:  
-\**- 2 Tomaten  
+**Für die Salsa:**_  
+_- 2 Tomaten  
 \- 1 große weiße oder rote Zwiebel  
 \- 2-3 Bund frischer Koriander oder Petersilie  
 \- 1 Limette
 
-\**Für die Paprika:  
-\**- 2 EL Olivenöl  
+**Für die Paprika:**_  
+_- 2 EL Olivenöl  
 \- 2 Paprika  
 \- 1 weiße Zwiebel  
 \- 1 TL Tomatenmark  
 \- ½ TL Cayenne Pfeffer  
 \- Etwas Pfeffer und Salz
 
-\**Für die restlichen Beilagen:  
-\**- 250 g Reis  
+**Für die restlichen Beilagen:**_  
+_- 250 g Reis  
 \- 1 Avocado  
 \- 1 kleine Dose Mais  
 \- 1 Strang Lauchzwiebeln  
@@ -47,10 +47,10 @@ tags:
 \- Optional: Hot-Sauce
 
 **Zubereitung:  
-_Bearbeitungszeit: ca. 45 Minuten  
-Für ca. 2 Personen  
-_**  
-Für die Bohnen:
+**_Bearbeitungszeit: ca. 45 Minuten  
+Für ca. 2 Personen_**  
+**  
+**Für die Bohnen:**
 
 1. Das Olivenöl in einer Pfanne auf mittlerer Stufe vorheizen. Anschließend die gehackte Knoblauchzehe für eine Minute darin andünsten.
 2. Die Bohnen in einem Sieb mit Wasser abwaschen und gut abtropfen lassen. Zum Knoblauch in die Pfanne geben.
