@@ -12,6 +12,8 @@ tags:
 - ungesund
 
 ---
+Hört auf euch zu beschweren, dass ihr zu broke seid und fangt an eure eigenen Snackrolls herzustellen! Das perfekte Fingerfood für alle, die nicht abnehmen wollen. Bonus: The reveal of the 'secret sauce'.
+
 **Zutaten:**
 
 **Für die Snackrolls:**  
