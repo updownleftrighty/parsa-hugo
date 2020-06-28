@@ -39,6 +39,8 @@ zutaten = ""
 > \- Salz und schwarzer Pfeffer  
 > \- Crème Fraiche oder Schmand zum Verfeinern
 
+> Passend als Beilage dazu: Unser hausgemachtes indisches [Naan](https://binans.netlify.app/charming-evening-field.11/).
+
 > ###### **Zubereitung:**
 >
 > 1\. Die Kichererbsen in einem Sieb gründlich abspülen und abtropfen lassen.
