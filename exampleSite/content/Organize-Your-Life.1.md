@@ -22,6 +22,6 @@ Die neuen Features:
 * Suchfunktion und Filterfunktion
 * Blog
 
-Wir legen viel Wert auf eine ausgewogene und gesunde Ernährung. Daher werden auch die Rezepte auf unserer Webseite sehr bunt durchmischt und abwechslungsreich sein. Von babbisch fleischig bis vegan ist alles dabei.
+Von babbisch fleischig bis vegan ist alles dabei.
 
 **Viel Spaß**
