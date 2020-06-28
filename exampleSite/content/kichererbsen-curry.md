@@ -77,4 +77,4 @@ zutaten = ""
 >
 > ![](/images/butter2.jpeg)
 
-> Achtung: Nimm am Besten vor dem Servieren die Nelken Kardamom, Zimt und Sternanis wieder aus der Pfanne! Da will man wirklich nicht drauf beißen.
+> Achtung: Nimm am Besten vor dem Servieren die Nelken, den Kardamom, den Zimt und den Sternanis wieder aus der Pfanne! Da will man wirklich nicht drauf beißen.
