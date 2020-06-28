@@ -5,7 +5,7 @@ description: Urlaub Inspiationen
 type: featured
 image: "/images/istanbul-2.jpeg"
 categories:
-- Valuable Idea
+- Travel
 tags:
 - Photos
 - Finance
