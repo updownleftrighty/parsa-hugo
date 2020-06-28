@@ -37,8 +37,8 @@ tags:
 > \- ½ TL Olivenöl  
 > \- Etwas Saft von einer Zitrone  
 > \- Salz und schwarzer Pfeffer
->
-> ![](/images/frychk.jpeg)
+
+![](/images/frychk.jpeg)
 
 > ###### **Zubereitung:**
 >
