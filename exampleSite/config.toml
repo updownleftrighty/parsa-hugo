@@ -1,6 +1,6 @@
 baseURL = "https://binans.netlify.app/"
 languageCode = "en-us"
-paginate = 6
+paginate = "6"
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Binans Kitchen"
