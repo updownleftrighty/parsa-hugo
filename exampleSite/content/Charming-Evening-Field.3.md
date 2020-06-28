@@ -1,6 +1,6 @@
 ---
 title: Köttbullar mit Kartoffelstampf
-date: 2020-06-27T08:46:10+00:00
+date: 2020-06-27T08:46:10.000+00:00
 description: Selbstgemachte schwedische Fleischbällchen mit fluffigem Kartoffelpürre
   in der besten Rahmsoße, die ihr jemals probiert habt. Ikea kann einpacken.
 type: post
@@ -12,10 +12,12 @@ tags:
 - Kartoffel
 
 ---
+Selbstgemachte schwedische Fleischbällchen mit fluffigem Kartoffelpürre in der besten Rahmsoße, die ihr jemals probiert habt. Ikea kann einpacken.
+
 **Zutaten:**
 
-**Für die Fleischbällchen:  
-**- 500 g gemischtes Hackfleisch  
+**Für die Fleischbällchen:**  
+\- 500 g gemischtes Hackfleisch  
 \- 1 Becher Schlagsahne  
 \- 2 kleine Zwiebeln  
 \- 1 Ei  
@@ -25,14 +27,14 @@ tags:
 \- 2 Scheiben Toastbrot  
 \- 500 ml Hühnerbrühe
 
-**Für den Kartoffelstampf:  
-**- 600 g mehlig-kochende Kartoffeln  
+**Für den Kartoffelstampf:**  
+\- 600 g mehlig-kochende Kartoffeln  
 \- 100 g Butter  
 \- 50-100 ml Milch  
 \- Ordentlich Salz
 
-**Für die Rahmsoße:  
-**- 30 ml Sahne  
+**Für die Rahmsoße:**  
+\- 30 ml Sahne  
 \- 70 g Butter  
 \- 40 g Mehl  
 \- 250 ml Rinderbrühe  
@@ -41,6 +43,7 @@ tags:
 \- Prise Salz und Pfeffer
 
 **Zubereitung:  
+  
 Für die Hackbällchen:**
 
 1. Zunächst in einer Schüssel die klein gewürfelten Brotstücken mit der Sahne vermischen und durchweichen lassen.
