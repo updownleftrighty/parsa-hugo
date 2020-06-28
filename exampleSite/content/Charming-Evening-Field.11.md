@@ -3,7 +3,7 @@ title: Klassisches Naan
 date: 2019-05-14T14:46:10.000+06:00
 description: ''
 type: post
-image: "/images/naan3.jpeg"
+image: "/images/naanflip-1.gif"
 categories:
 - Food
 tags:
