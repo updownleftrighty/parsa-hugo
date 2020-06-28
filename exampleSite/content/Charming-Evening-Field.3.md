@@ -42,9 +42,9 @@ Selbstgemachte schwedische Fleischbällchen mit fluffigem Kartoffelpürre in der
 \- Etwas frische Petersilie  
 \- Prise Salz und Pfeffer
 
-**Zubereitung:  
-  
-Für die Hackbällchen:**
+**Zubereitung:**
+
+**Für die Hackbällchen:**
 
 1. Zunächst in einer Schüssel die klein gewürfelten Brotstücken mit der Sahne vermischen und durchweichen lassen.
 2. Währenddessen die Pfanne mit 2 EL Butter auf mittlerer Stufe erhitzen und die Zwiebeln darin andünsten bis sie gelblich und transparent sind.
