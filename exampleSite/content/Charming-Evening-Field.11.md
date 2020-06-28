@@ -1,55 +1,35 @@
 ---
-title: "Charming Evening Field"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "post"
-image: "images/masonary-post/post-12.jpg"
-categories: 
-  - "Food"
+title: Klassisches Naan
+date: 2019-05-14T14:46:10.000+06:00
+description: ''
+type: post
+image: images/masonary-post/post-12.jpg
+categories:
+- Food
 tags:
-  - "Photos"
-  - "Food"
+- Brot
+- gesund
+- einfach
+
 ---
+Das perfekte Naan Brot.   
+Ein einfaches, schnelles Rezept einer Spezialität aus der traditionellen indischen Küche.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+**Zutaten:** 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+\- 320 g Mehl   
+\- 1/2 TL Zucker  
+\- 1/2 TL Salz  
+\- 230 ml Wasser  
+\- 1/2 TL Trockenhefe   
+\- 1 TL Zucker (für die Hefe)  
+\- 1-2 EL Wasser (für die Hefe)
 
+**Zubereitung:** 
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-
-
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
+1. Zunächst gibst du die Trockenhefe zusammen mit dem Zucker für die Hefe in eine Schüssel. Gib etwas Wasser hinzu und verrühre alles gut miteinander, bis sich die Hefe aufgelöst hat. 5 Minuten abgedeckt stehen lassen.
+2. Nach der kurzen Ruhezeit gibst du die trockenen Zutaten, also das Mehl, Zucker und Salz in die Schüssel zur Hefe. Nach und nach das Wasser unterrühren und mit den Händen zu einem Teig vermengen.
+3. Sobald sich der Teig zu einer Kugel formen lässt, nimmst du ihn aus der Schüssel und knetest ihn weitere 5 Minuten auf deiner Arbeitsfläche. 
+4. Anschließend mit Plastikfolie abdecken und mindestens eine Stunde bei Raumtemperatur ruhen lassen. 
+5. Nach dem Ruhen teilst du deinen Teig in gleichgroße, in etwa Tennisball große Kugeln und lässt diese noch einmal abgedeckt für mindestens 10 Minuten ruhen.
+6. Nun sind die Naan Brote bereit ausgerollt und gebacken zu werden. Hierfür die einzelnen Kugeln so dünn wie möglich ausrollen und nacheinander bei hoher Hitze anbraten, bis große Blasen entstehen und die Naan Brote einige bräunliche Stellen haben. (Achtung: hier möglichst kein oder ganz wenig Öl verwenden).
