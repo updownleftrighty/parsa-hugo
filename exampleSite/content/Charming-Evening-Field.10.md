@@ -49,7 +49,7 @@ tags:
 >
 > **Für die Toppings:**  
 > \- Geriebener (Cheddar-)Käse  
-> \- 2 Avocado  
+> \- 2 Avocados  
 > \- Etwas Schmand  
 > \- Etwas Eisbergsalat
 
