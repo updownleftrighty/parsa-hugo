@@ -3,7 +3,7 @@ title: Taste of Istanbul
 date: 2019-09-08T22:00:00+00:00
 description: Urlaub Inspiationen
 type: featured
-image: "/images/istanbul-1.jpeg"
+image: "/images/istanbul-2.jpeg"
 categories:
 - Valuable Idea
 tags:
