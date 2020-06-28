@@ -21,9 +21,9 @@ Hat euch jemand schon mal so ne kranke Pizza in Mannheim serviert? I doubt it!!
 
 ![](/images/pizza3.jpeg)
 
-\1. Das Wasser und die Hefe eine eine große Schüssel geben und gut verrühren.
+Das Wasser und die Hefe eine eine große Schüssel geben und gut verrühren.
 
-\2. Das Mehl und Salz dazugeben und mit einen Kochlöffel lange zusammenrühren, bis der Teig grob miteinander verbunden ist. Der Teig wird sehr feucht auf euch wirken, aber lasst euch davon nicht abschrecken.
+Das Mehl und Salz dazugeben und mit einen Kochlöffel lange zusammenrühren, bis der Teig grob miteinander verbunden ist. Der Teig wird sehr feucht auf euch wirken, aber lasst euch davon nicht abschrecken.
 
 Die Schüssel abdecken und 15 Minuten ruhen lassen
 
