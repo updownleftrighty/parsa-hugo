@@ -10,6 +10,6 @@ tags:
 - vegan
 
 ---
-Unsere vegane Interpretation des beliebten chinese-american Fast Food Gerichts "Orange Chicken".
+> Unsere vegane Interpretation des beliebten chinese-american Fast Food Gerichts "Orange Chicken".
 
 ![](/images/oc2.jpeg)

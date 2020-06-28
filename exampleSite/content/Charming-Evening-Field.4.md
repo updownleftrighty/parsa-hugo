@@ -17,8 +17,8 @@ tags:
 
 ---
 > Der Kontrast zwischen knusprig-würzigen Kicherebsen und frischem Joghurt und Salat macht süchtig. Dazu selbstgemachtes Naan Brot zum dippen. Schnell, einfach und gesund. Perfekt zum vorbereiten für die Mittagspause im Büro!
->
-> **Zutaten:**
+
+> ###### **Zutaten:**
 >
 > **Für die Kichererbsen:**
 >
@@ -60,9 +60,9 @@ tags:
 > \- Prise Zucker  
 > Zubereitung: Gurke und Zwiebel in dünne Scheiben schneiden und in eine kleine Schüssel geben. Mit den restlichen Zutaten vermischen.
 
-> 
+> ###### **Zubereitung:**
 >
-> **Zubereitung:**  
+> ######   
 > _Bearbeitungszeit: ca. 20 Minuten_
 >
 > _Für ca. 2 Personen_
