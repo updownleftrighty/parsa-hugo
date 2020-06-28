@@ -13,7 +13,7 @@ tags:
 - Fast-Food
 
 ---
-Der All-time-Favorite spricht für sich selbst.
+Der All-time-Favorite spricht für sich selbst. Egal ob als Tenders, Wings oder Burger, der Aufwand lohnt sich!
 
 **Zutaten:**
 
