@@ -13,6 +13,8 @@ tags:
 - Fast-Food
 
 ---
+Der All-time-Favorite spricht für sich selbst.
+
 **Zutaten:**
 
 **Für das Fried Chicken:**  
