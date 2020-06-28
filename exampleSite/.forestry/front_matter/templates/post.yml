@@ -26,5 +26,10 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
+- name: zutaten
+  type: text
+  config:
+    required: false
+  label: Zutaten
 pages:
 - exampleSite/content/kichererbsen-curry.md
