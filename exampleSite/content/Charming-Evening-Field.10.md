@@ -15,7 +15,7 @@ tags:
 - Soja
 
 ---
-Diese vegetarische Variante des klassischen Tacos wird euch nicht enttäuschen. Zart, deftig und voller Aroma und frische. Perfekt abgerundet mit selbstgemachten Weizen-Tortillas und Hot Sauce.
+Diese vegetarische Variante des klassischen Tacos wird euch nicht enttäuschen. Zart, deftig und voller Aroma und Frische. Perfekt abgerundet mit selbstgemachten Weizen-Tortillas und Hot Sauce.
 
 **Zutaten:**
 
