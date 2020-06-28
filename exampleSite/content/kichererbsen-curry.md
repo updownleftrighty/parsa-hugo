@@ -10,7 +10,9 @@ type = "post"
 +++
 > Unsere vegetarische Alernative zum beliebten indischen Gericht "Butter Chicken".
 
-> **Zutaten:**  
+> ###### **Zutaten:**
+>
+>   
 > \- 1 Dose Kichererbsen  
 > \- 4 EL Olivenöl  
 > \- 1 weiße Zwiebel  
@@ -57,8 +59,7 @@ type = "post"
 
 ![](/images/butter1.gif)
 
-6\. Jetzt fügst du die Nelken, Kardamom, Sternanis und Zimt hinzu. Schließlich kommt auch der Knoblauch und der untere, weiße Teil der Frühlingszwiebel mit dazu, 1 Minute mit braten.
-
+6\. Jetzt fügst du die Nelken, Kardamom, Sternanis und Zimt hinzu. Schließlich kommt auch der Knoblauch und der untere, weiße Teil der Frühlingszwiebel mit dazu, 1 Minute mit braten.  
   
 ![](/images/butter3.jpeg)
 
@@ -66,7 +67,10 @@ type = "post"
 
 ![](/images/butter2.gif)
 
-8\. An dieser Stelle kommen die angebratenen Kichererbsen in die Pfanne zurück. Das Ganze wird nun mit der Sahne abgelöscht und gut umgerührt. Optional (und auch falls es nicht cremig genug sein sollte) kann hier noch etwas Crème Fraiche oder Schmand untergerührt werden.
-
+8\. An dieser Stelle kommen die angebratenen Kichererbsen in die Pfanne zurück. Das Ganze wird nun mit der Sahne abgelöscht und gut umgerührt. Optional (und auch falls es nicht cremig genug sein sollte) kann hier noch etwas Crème Fraiche oder Schmand untergerührt werden.  
   
-![](/images/butter4.gif)9. Auf Tellern anrichten und mit gehackten Frühlingszwiebeln und Koriander garnieren. Fertig! 
+![](/images/butter4.gif)
+
+9\. Auf Tellern anrichten und mit gehackten Frühlingszwiebeln und Koriander garnieren. Fertig! 
+
+![](/images/butter2.jpeg)
