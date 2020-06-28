@@ -1,6 +1,6 @@
 ---
 title: Bean-Burger
-date: 2020-06-27T08:46:10+00:00
+date: 2020-06-27T08:46:10.000+00:00
 description: This is meta description
 type: post
 image: "/images/vegburger.jpeg"
@@ -13,10 +13,10 @@ tags:
 ---
 Wer diesen Burger nur als "Alternative" bezeichnet verletzt unsere Ehre.
 
-**Zutaten:  
-  
-Für 2-3 Patties:  
-**- 1 Dose Kidneybohnen oder Schwarzbohnen  
+**Zutaten:**
+
+**Für 2-3 Patties:**  
+\- 1 Dose Kidneybohnen oder Schwarzbohnen  
 \- 4-5 mittelgroße Champignons  
 \- 1 kleine Zwiebel  
 \- 1 Knoblauchzehe  
@@ -28,15 +28,15 @@ Für 2-3 Patties:
 \- 3 TL Worcestershire-Soße  
 \- Salz & Pfeffer
 
-**Für den restlichen Burger:  
-**- Brötchen  
+**Für den restlichen Burger:**  
+\- Brötchen  
 \- Eisbergsalat  
 \- Tomaten  
 \- Zwiebel  
 \- (Cheddar-)Käse
 
-**Für die Burgersoße:  
-**- 3 EL Mayonnaise  
+**Für die Burgersoße:**  
+\- 3 EL Mayonnaise  
 \- 1 TL Tabasco, Sriracha oder eine andere Hot-Sauce (notfalls Ketchup)  
 \- 1/2 TL Honig  
 \- Paprikapulver, Knoblauchpulver, Salz und weißer Pfeffer nach Geschmack  
