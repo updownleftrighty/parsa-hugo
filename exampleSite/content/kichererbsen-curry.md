@@ -8,4 +8,6 @@ title = "Kichererbsen Curry"
 type = "post"
 
 +++
+Unsere vegetarische Alernative zum beliebten indischen Gericht "Butter Chicken".
+
 ###### Zutaten:
