@@ -12,6 +12,8 @@ tags:
 - Reis
 
 ---
+Eine ausgeglichene Mahlzeit, nach der man sich gesättigt und voller Energie fühlt. Für diese Art von Gericht hat man immer etwas passendes im Vorratsschrank.
+
 **Zutaten:**
 
 **Für die Bohnen:**_  
