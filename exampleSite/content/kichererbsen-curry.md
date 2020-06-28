@@ -37,7 +37,7 @@ type = "post"
 > \- 1 TL Cayenne-Pfeffer   
 > \- 1/2 TL weißer Pfeffer   
 > \- Salz und schwarzer Pfeffer  
-> \- Crème Fraiche oder Schmand zum verfeinern
+> \- Crème Fraiche oder Schmand zum Verfeinern
 
 ###### **Zubereitung:**
 
