@@ -64,9 +64,9 @@ Für ca. 2 Personen_**
 3. Eine Prise Salz, Pfeffer und Zucker dazugeben.
 
    **Für die Paprika:**
-4. Die Zwiebel in einer Pfanne auf mittlerer Stufe in dem Olivenöl andünsten.
-5. Anschließend die in Streifen geschnittenen Paprika dazu geben und die Pfanne eine Stufe höher stellen.
-6. Wenn die Paprika schön weich sind, kannst du das Tomatenmark und die restlichen Gewürze untermischen und gut verteilen. Ein kleiner Schluck Wasser hilft dabei, alles besser aufzulösen.
+   1. Die Zwiebel in einer Pfanne auf mittlerer Stufe in dem Olivenöl andünsten.
+   2. Anschließend die in Streifen geschnittenen Paprika dazu geben und die Pfanne eine Stufe höher stellen.
+   3. Wenn die Paprika schön weich sind, kannst du das Tomatenmark und die restlichen Gewürze untermischen und gut verteilen. Ein kleiner Schluck Wasser hilft dabei, alles besser aufzulösen.
 
 **Anrichten der Bowl:**
 
