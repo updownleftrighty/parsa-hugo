@@ -39,40 +39,40 @@ zutaten = ""
 > \- Salz und schwarzer Pfeffer  
 > \- Crème Fraiche oder Schmand zum Verfeinern
 
-###### **Zubereitung:**
+> ###### **Zubereitung:**
+>
+> 1\. Die Kichererbsen in einem Sieb gründlich abspülen und abtropfen lassen.
+>
+> 2\. In einer Pfanne erhitzt du das Olivenöl auf mittlerer Stufe. Wenn das Öl heiß ist, kannst du die Kichererbsen hinzufügen. Mit jeweils einer Prise Salz, schwarzem Pfeffer, weißem Pfeffer, Paprikapulver, gemahlenem Kreuzkümmel, gemahlenem Koriander und Cayenne-Pfeffer würzen. Solange anbraten bis die Kichererbsen schön braun geröstet sind und eine leichte Kruste gebildet haben, in etwa 10 Minuten. Ab und zu umrühren.
+>
+> ![](/images/butter6.jpeg)
+>
+> 3\. Während die Kichererbsen in der Pfanne vor sich hinrösten, kannst du bereits die Gewürze und Kräuter schneiden. Zwiebeln, Knoblauch, Ingwer, Chilis, Paprika, Frühlingszwiebel und Koriander möglichst fein hacken und beiseite stellen.
+>
+> ![](/images/butter4.jpeg)
+>
+> 4\. Wenn die Kichererbsen dann schön knackig und braun sind, kannst du sie aus der Pfanne nehmen und in einer Schüssel zwischenlagern.
+>
+> ![](/images/butter5.jpeg)
+>
+> 5\. Nun gibst du die Hälfte von der Butter in die noch warme Pfanne. Zunächst die Zwiebeln 2 Minuten lang darin andünsten. Dann den Ingwer, die Chilis und die Paprika hinzugeben und weitere 2 Minuten mit braten.
+>
+> ![](/images/butter1.gif)
+>
+> 6\. Jetzt fügst du die Nelken, Kardamom, Sternanis und Zimt hinzu. Schließlich kommt auch der Knoblauch und der untere, weiße Teil der Frühlingszwiebel mit dazu, 1 Minute mit braten.
+>
+> ![](/images/butter3.jpeg)
+>
+> 7\. Anschließend kommt das Tomatenmark in die Pfanne und wird kurz angeröstet. Mit den restlichen trockenen Gewürzen würzen, die restliche Hälfte von der Butter hineingeben und 2-3 Minuten lang unter Rühren anbraten.
+>
+> ![](/images/butter2.gif)
+>
+> 8\. An dieser Stelle kommen die angebratenen Kichererbsen in die Pfanne zurück. Das Ganze wird nun mit der Sahne abgelöscht und gut umgerührt. Optional (und auch falls es nicht cremig genug sein sollte) kann hier noch etwas Crème Fraiche oder Schmand untergerührt werden.
+>
+> ![](/images/butter4.gif)
+>
+> 9\. Auf Tellern anrichten und mit gehackten Frühlingszwiebeln und Koriander garnieren. Fertig!
+>
+> ![](/images/butter2.jpeg)
 
-1\. Die Kichererbsen in einem Sieb gründlich abspülen und abtropfen lassen.
-
-2\. In einer Pfanne erhitzt du das Olivenöl auf mittlerer Stufe. Wenn das Öl heiß ist, kannst du die Kichererbsen hinzufügen. Mit jeweils einer Prise Salz, schwarzem Pfeffer, weißem Pfeffer, Paprikapulver, gemahlenem Kreuzkümmel, gemahlenem Koriander und Cayenne-Pfeffer würzen. Solange anbraten bis die Kichererbsen schön braun geröstet sind und eine leichte Kruste gebildet haben, in etwa 10 Minuten. Ab und zu umrühren.
-
-![](/images/butter6.jpeg)
-
-3\. Während die Kichererbsen in der Pfanne vor sich hinrösten, kannst du bereits die Gewürze und Kräuter schneiden. Zwiebeln, Knoblauch, Ingwer, Chilis, Paprika, Frühlingszwiebel und Koriander möglichst fein hacken und beiseite stellen.
-
-![](/images/butter4.jpeg)
-
-4\. Wenn die Kichererbsen dann schön knackig und braun sind, kannst du sie aus der Pfanne nehmen und in einer Schüssel zwischenlagern.
-
-![](/images/butter5.jpeg)
-
-5\. Nun gibst du die Hälfte von der Butter in die noch warme Pfanne. Zunächst die Zwiebeln 2 Minuten lang darin andünsten. Dann den Ingwer, die Chilis und die Paprika hinzugeben und weitere 2 Minuten mit braten.
-
-![](/images/butter1.gif)
-
-6\. Jetzt fügst du die Nelken, Kardamom, Sternanis und Zimt hinzu. Schließlich kommt auch der Knoblauch und der untere, weiße Teil der Frühlingszwiebel mit dazu, 1 Minute mit braten.
-
-![](/images/butter3.jpeg)
-
-7\. Anschließend kommt das Tomatenmark in die Pfanne und wird kurz angeröstet. Mit den restlichen trockenen Gewürzen würzen, die restliche Hälfte von der Butter hineingeben und 2-3 Minuten lang unter Rühren anbraten.
-
-![](/images/butter2.gif)
-
-8\. An dieser Stelle kommen die angebratenen Kichererbsen in die Pfanne zurück. Das Ganze wird nun mit der Sahne abgelöscht und gut umgerührt. Optional (und auch falls es nicht cremig genug sein sollte) kann hier noch etwas Crème Fraiche oder Schmand untergerührt werden.
-
-![](/images/butter4.gif)
-
-9\. Auf Tellern anrichten und mit gehackten Frühlingszwiebeln und Koriander garnieren. Fertig!
-
-![](/images/butter2.jpeg)
-
-Achtung: Nimm am Besten vor dem Servieren die Nelken Kardamom, Zimt und Sternanis wieder aus der Pfanne! Da will man wirklich nicht drauf beißen.
+> Achtung: Nimm am Besten vor dem Servieren die Nelken Kardamom, Zimt und Sternanis wieder aus der Pfanne! Da will man wirklich nicht drauf beißen.
