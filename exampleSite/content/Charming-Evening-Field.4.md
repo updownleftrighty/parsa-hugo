@@ -44,7 +44,9 @@ tags:
 >
 > \- Ein Schuss Zitronensaft
 >
-> \- Prise Salz  
+> \- Prise Salz
+>
+>   
 > Zubereitung: Zutaten miteinander vermischen.
 >
 > **Für das Salat-Topping:**
@@ -57,12 +59,13 @@ tags:
 >
 > \- Etwas Pfeffer
 >
-> \- Prise Zucker  
+> \- Prise Zucker
+>
+>   
 > Zubereitung: Gurke und Zwiebel in dünne Scheiben schneiden und in eine kleine Schüssel geben. Mit den restlichen Zutaten vermischen.
 
 > ###### **Zubereitung:**
 >
-> ######   
 > _Bearbeitungszeit: ca. 20 Minuten_
 >
 > _Für ca. 2 Personen_
