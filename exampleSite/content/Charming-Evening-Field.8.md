@@ -45,6 +45,7 @@ tags:
 
 > ###### **Zubereitung:**
 >
+>
 > 1. Die Bohnen in einem Sieb ordentlich abwaschen und kurz abtropfen lassen.
 > 2. Die Bohnen auf einem mit Backpapier ausgelegten Backblech ausbreiten und in den Backofen bei 180°C dehydrieren für ca. 15-20 Minuten. Die Bohnen sind fertig, wenn die Hülsen aufgeplatzt und außen leicht knusprig sind. Hier muss man vorsichtig sein, um de Bohnen nicht zu stark auszutrocknen. In einer großen Schüssel für die Weiterverarbeitung abkühlen lassen.
 > 3. Die Champignons in kleine Würfel schneiden und in einer Pfanne mit 2-3 TL Öl bei hoher Hitze anbraten. Gewürzt wird nur mit ordentlich viel schwarzem Pfeffer. Durch das scharfe Anbraten erzeugen wir Röstaromen, die einen fleischähnlichen, deftigen Geschmack geben. Daher ist es wichtig, dass die Pilze eine ordentliche Kruste bekommen und nicht latschig weich gekocht werden. Wenn es in der Küche verraucht ist, dann habt ihr alles richtig gemacht. Die Pilze sollten nach ca. 5-8 Minuten fertig sein, wenn sie deutlich in der Größe geschrumpft und außen eine goldbraune bzw. dunkle Kruste haben. Zum Abkühlen in die Schüssel zu den Bohnen geben.
