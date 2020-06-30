@@ -16,6 +16,8 @@ Einige Gewürze sind essentiell und nicht wegdenkbar, andere hingegen eher optio
 
 Wie auch immer, es lohnt sich gewisse Gewürze vorrätig zu haben, da diese der Schlüssel zu gesundem, vielfältigem und abwechslungsreichem Essen sind. Auch aufgrund der meist sehr langen Haltbarkeit von trockenen Gewürzen, legen wir euch sehr ans Herz folgende Gewürze immer vorrätig zu haben.
 
+Tipp: Im türkischen Supermarkt sind alle genannten Gewürze günstig zu bekommen. 
+
 **Gemahlener Kreuzkümmel (auch Kumin/Cumin genannt)**
 
 \- Auf gar keinen Fall mit Kümmel verwechseln!
@@ -29,6 +31,10 @@ Wie auch immer, es lohnt sich gewisse Gewürze vorrätig zu haben, da diese der 
 \- Getrocknete Koriandersamen und Korianderpulver werden aus getrockneten Korianderfrüchten hergestellt. Sie unterscheiden sich deshalb nicht nur äußerlich, sondern vor allem geschmacklich vom grünen, frischen Koriander
 
 **Kurkuma**
+
+\- Oftmals eingesetzt wegen der intensiven gelben Farbe
+
+\- Mild, würziger Geschmack; leicht bitter
 
 **Zimtstangen** 
 
