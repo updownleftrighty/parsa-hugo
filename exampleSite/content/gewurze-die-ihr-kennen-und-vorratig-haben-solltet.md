@@ -68,3 +68,5 @@ zutaten = ""
 > **Somak (Sumach)**
 >
 > **Ganze Muskatnuss**
+>
+> **Getrocknete Lorbeerblätter**
