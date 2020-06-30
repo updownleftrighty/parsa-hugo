@@ -47,14 +47,14 @@ tags:
 >
 > ##### Ab diesem Schritt ist es euch überlassen, wie ihr die Pizza ausrollen und backen wollt. Wir haben im Laufe von etlichen unzufriedenen Versuchen die folgende Methode für die optimale Backweise für uns festgestellt
 >
-> 11\. Der Teigball wird auf einer bemehlten Arbeitsplatte ausgedehnt. Am einfachsten geht es mit der Hand. Dafür mit der flachen Hand von der Mitte des Teiges aus beginnend nach außen voranarbeiten. So verschiebt man die Masse und die Luft in Richtung Rand und gleichzeitig wird dadurch de Pizza größer. Lasst einen ca 1-2 cm breiten Rand übrig, wo ihr den Teig nicht eindrückt, damit dieser schön luftig bleibt.
+> 11\. Bevor mit dem Teig gearbeitet wird, wird der Ofen auf höchster Stufe (Ober-/Unterhitze) vorgeheizt. Nun wird der Teigball auf einer bemehlten Arbeitsplatte ausgedehnt. Am einfachsten geht es mit der Hand. Dafür mit der flachen Hand von der Mitte des Teiges aus beginnend nach außen voranarbeiten. So verschiebt man die Masse und die Luft in Richtung Rand und gleichzeitig wird dadurch de Pizza größer. Lasst einen ca 1-2 cm breiten Rand übrig, wo ihr den Teig nicht eindrückt, damit dieser schön luftig bleibt. Währenddessen eine Pfanne auf mittlere bis hohe Hitze erwärmen.
 >
 > **Schaut euch unser Video zum dehnen an!**
 >
-> 12\. Den gedehnten Teig ganz vorsichtig in die Pfanne legen und bei Bedarf nachformen. Wir empfehlen, den Teig etwas kleiner als die Pfanne zu formen und den letzten "Feinschliff" in der Pfanne zu machen. Der Teig wird beim Transfer in die Pfanne etwas gedehnt und dadurch größer. Wer Glück hat, der  hat zu Hause eventuell eine Pizzaschaufel, das vereinfacht die Arbeit. Ansonsten kann man auch vorsichtig mit zwei Händen und die Pizza gleiten und diese _mit dem Handrücken_ heben und zügig transferieren.
+> 12\. Den gedehnten Teig ganz vorsichtig in die Pfanne legen und bei Bedarf nachformen. Wir empfehlen, den Teig etwas kleiner als die Pfanne zu formen und den letzten "Feinschliff" in der Pfanne zu machen. Der Teig wird beim Transfer in die Pfanne etwas gedehnt und dadurch größer. Wer Glück hat, der hat zu Hause eventuell eine Pizzaschaufel, das vereinfacht die Arbeit. Ansonsten kann man die Pizza auch vorsichtig mit beiden Händen, genauer _mit dem Handrücken_ anheben und zügig transferieren.
 >
-> 13\. Die Pizza in der  Pfanne mit Soße, Käse und Co. belegen, während sie gleichzeitig von unten schön knusprig wird.
+> 13\. Die Pizza in der Pfanne mit Soße, Käse und Co. belegen, während sie gleichzeitig von unten schön knusprig angebraten wird.
 >
-> 14\. Nach 3-4 Minuten sollte die Pizza unten schön braun sein, dann kann man sie auch ganz leicht herausheben und in den Backofen schieben. Sie brauch nur 2-4 Minuten im Backofen, weil die Pizza ganz kurz aber dafür extrem heiß von oben gebacken wird. Ihr seht an der Farbe der Pizza, wann sie fertig ist!
+> 14\. Nach 3-4 Minuten sollte die Pizza unten schön braun sein, dann kann man sie auch ganz leicht herausheben und auf die oberste Schiene in den Backofen schieben. Sie braucht nur 2-4 Minuten im Backofen, weil die Pizza ganz kurz aber dafür extrem heiß von oben gebacken wird. Ihr seht an der Farbe der Pizza, wann sie fertig ist!
 
 ![](/images/pizza2.jpeg)
