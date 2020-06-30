@@ -47,7 +47,7 @@ tags:
 >
 > ##### Ab diesem Schritt ist es euch überlassen, wie ihr die Pizza ausrollen und backen wollt. Wir haben im Laufe von etlichen unzufriedenen Versuchen die folgende Methode für die optimale Backweise für uns festgestellt
 >
-> 11\. Der Teigball wird auf einer bemehlten Arbeitsplatte ausgedehnt. Am einfachsten geht es mit der Hand. Dafür mit der flachen Hand von der Mitte des Teiges aus beginnend nach außen voranarbeiten. So verschiebt man die Masse und die Luft in Richtung Rand und gleichzeitig wird dadurch de Pizza größer. Lasst einen ca 1-2cm breiten Rand übrig, wo ihr den Teig nicht eindrückt, damit dieser schön luftig bleibt.
+> 11\. Der Teigball wird auf einer bemehlten Arbeitsplatte ausgedehnt. Am einfachsten geht es mit der Hand. Dafür mit der flachen Hand von der Mitte des Teiges aus beginnend nach außen voranarbeiten. So verschiebt man die Masse und die Luft in Richtung Rand und gleichzeitig wird dadurch de Pizza größer. Lasst einen ca 1-2 cm breiten Rand übrig, wo ihr den Teig nicht eindrückt, damit dieser schön luftig bleibt.
 >
 > **Schaut euch unser Video zum dehnen an!**
 >
