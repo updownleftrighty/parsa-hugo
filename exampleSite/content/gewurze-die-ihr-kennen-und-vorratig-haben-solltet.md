@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Gewürze"]
 date = ""
 description = ""
 draft = true
