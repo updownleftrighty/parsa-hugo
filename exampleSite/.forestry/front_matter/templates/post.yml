@@ -26,11 +26,6 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
-- name: zutaten
-  type: text
-  config:
-    required: false
-  label: Zutaten
 pages:
 - exampleSite/content/gewurze-die-ihr-kennen-und-vorratig-haben-solltet.md
 - exampleSite/content/kichererbsen-curry.md
