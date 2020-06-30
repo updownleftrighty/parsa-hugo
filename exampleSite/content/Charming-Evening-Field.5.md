@@ -33,13 +33,13 @@ tags:
 >
 > 4\. Nach der Ruhezeit sollte der Teig etwas weicher und leichter zu verarbeiten sein. Jetzt wird der Teig mit dem Kochlöffel weiter verknetet. Ihr setzt dafür mit dem Löffel am Rand zwischen Teig und Schüssel an und "klappt" den Teig auf die gegenüberliegende Seite. Das wiederholt ihr rundherum, so dass jede Stelle einmal zur gegenüberliegenden Seite eingeklappt wurde. Ähnlich wie ein Sternmuster, falls das zur Visualisierung hilft.
 >
-> 5\. Die Schüssel abdecken und 15 Minuten ruhen lassen
+> 5\. Die Schüssel abdecken und  erneut 15 Minuten ruhen lassen.
 >
 > 6\. Den Schritt 4 wiederholen. Diesmal könnt ihr versuchen, ob sich der Teig etwas weiter dehnen lässt. Zieht den Teig dafür erst etwas nach oben und dann auf die gegenüberliegende Seite. Vermeidet es, den Teig so weit zu dehnen, dass er reißt.
 >
-> 7\. Die Schüssel abdecken und 15 Minuten ruhen lassen
+> 7\. Die Schüssel abdecken und 15 Minuten ruhen lassen.
 >
-> 8\. Den Schritt 6 ein weiteres mal wiederholen. Ihr solltet spüren, dass der Teig viel weicher und elastischer geworden ist.
+> 8\. Schritt 4 ein weiteres mal wiederholen. Ihr solltet spüren, dass der Teig viel weicher und elastischer geworden ist.
 >
 > 9\. Die Schüssel abdecken und im Kühlschrank für mindestens 8h-12h gehen lassen. Achtet darauf, dass eure Schüssel das doppelte Volumen des ursprünglichen Teigs hat, ansonsten droht critical overflow.
 >
