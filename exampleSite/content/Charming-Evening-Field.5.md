@@ -16,10 +16,10 @@ tags:
 >
 > **Für zwei Pizzen:**
 >
-> \- 300g Mehl (am besten "00" oder Pizzamehl)  
-> \- 200ml Wasser (Zimmertemperatur)  
-> \- 7g Mehl (ca. abgestrichene 2 TL)  
-> \- 4g frische Hefe (oder 2g Trockenhefe)
+> \- 300 g Mehl (am besten "00" oder Pizzamehl)  
+> \- 200 ml Wasser (Zimmertemperatur)  
+> \- 7 g Mehl (ca. abgestrichene 2 TL)  
+> \- 4 g frische Hefe (oder 2 g Trockenhefe)
 
 ![](/images/pizza3.jpeg)
 
@@ -39,11 +39,11 @@ tags:
 >
 > 7\. Die Schüssel abdecken und 15 Minuten ruhen lassen
 >
-> 8\. Den Schritt 6  ein weiteres mal wiederholen. Ihr solltet spüren, dass der Teig viel weicher und elastischer geworden ist.
+> 8\. Den Schritt 6 ein weiteres mal wiederholen. Ihr solltet spüren, dass der Teig viel weicher und elastischer geworden ist.
 >
 > 9\. Die Schüssel abdecken und im Kühlschrank für mindestens 8h-12h gehen lassen. Achtet darauf, dass eure Schüssel das doppelte Volumen des ursprünglichen Teigs hat, ansonsten droht critical overflow.
 >
-> 10\. Ein bis zwei Stunden vor dem Backen sollte man den Teig in zwei gleichgroße Stücke teilen. Vorsichtig zwei Bälle daraus formen und darauf achten, nicht zu viel zu kneten. Der Teig hat lange gebraucht, um die ganze Luft darin zu erzeugen. die möchten wir jetzt nicht am Schluss der Reise wieder rauskneten. Die Bällchen auf ein Backblech legen und von allen Seiten leicht mit Olivenöl bepinseln. Mit Frischhaltefolie abdecken. Das verhindert, dass der Teig an der Oberfläche austrocknet und eine harte Kruste formt.
+> 10\. Ein bis zwei Stunden vor dem Backen sollte man den Teig in zwei gleichgroße Stücke teilen. Vorsichtig zwei Bälle daraus formen und darauf achten, nicht zu viel zu kneten. Der Teig hat lange gebraucht, um die ganze Luft darin zu erzeugen, die möchten wir jetzt nicht am Schluss der Reise wieder rauskneten. Die Bällchen auf ein Backblech legen und von allen Seiten leicht mit Olivenöl bepinseln. Mit Frischhaltefolie abdecken. Das verhindert, dass der Teig an der Oberfläche austrocknet und eine harte Kruste formt.
 >
 > ##### Ab diesem Schritt ist es euch überlassen, wie ihr die Pizza ausrollen und backen wollt. Wir haben im Laufe von etlichen unzufriedenen Versuchen die folgende Methode für die optimale Backweise für uns festgestellt
 >
