@@ -9,6 +9,7 @@ categories:
 tags:
 - veget
 - Fast-Food
+zutaten: Zutaten zutaten Zutaten zutaten Zutaten Zutaten zutaten Zutaten zutaten Zutaten
 
 ---
 > Wer diesen Burger nur als "Alternative" bezeichnet verletzt unsere Ehre.
