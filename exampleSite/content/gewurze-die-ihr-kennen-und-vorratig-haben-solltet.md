@@ -12,20 +12,34 @@ zutaten = ""
 +++
 Gewürze sind das A und O in jeder Küche.
 
-Einige Gewürze sind essentiell und nicht wegdenkbar, andere hingegen eher optional. 
+Einige Gewürze sind essentiell und nicht wegdenkbar, andere hingegen eher optional.
 
-Wie auch immer, es lohnt sich gewisse Gewürze vorrätig zu haben, da diese der Schlüssel zu gesundem, vielfältigem und abwechslungsreichem Essen sind. Auch aufgrund der meist sehr langen Haltbarkeit von trockenen Gewürzen, legen wir euch sehr ans Herz folgende Gewürze immer vorrätig zu haben. 
+Wie auch immer, es lohnt sich gewisse Gewürze vorrätig zu haben, da diese der Schlüssel zu gesundem, vielfältigem und abwechslungsreichem Essen sind. Auch aufgrund der meist sehr langen Haltbarkeit von trockenen Gewürzen, legen wir euch sehr ans Herz folgende Gewürze immer vorrätig zu haben.
 
 **Gemahlener Kreuzkümmel (auch Kumin/Cumin genannt)**
 
-\- Auf gar keinen Fall mit Kümmel verwechseln! 
+\- Auf gar keinen Fall mit Kümmel verwechseln!
 
-\- Intensiver, kräftiger Geschmack 
+\- Intensiver, kräftiger Geschmack
 
 **Gemahlener Koriander**
 
 \- Nicht zu verwechseln mit frischem Koriander(-kraut)
 
-\- Getrocknete Koriandersamen und Korianderpulver werden aus getrockneten Korianderfrüchten hergestellt. Sie unterscheiden sich deshalb nicht nur äußerlich, sondern vor allem geschmacklich vom grünen, frischen Koriander.
+\- Getrocknete Koriandersamen und Korianderpulver werden aus getrockneten Korianderfrüchten hergestellt. Sie unterscheiden sich deshalb nicht nur äußerlich, sondern vor allem geschmacklich vom grünen, frischen Koriander
 
-**Kurkuma** 
+**Kurkuma**
+
+**Zimtstangen** 
+
+\- Ganze, echte Zimtstangen sind im Geschmack reiner und vollwertiger als der gemahlene (meist gestreckte) im Handel erhältliche Zimt
+
+\- Achtet unbedingt darauf _Ceylon_-Zimtstangen zu kaufen, da sich andere Arten von Zimt (z.B. Cassiazimt) geschmacklich unterscheiden
+
+**Sternanis**
+
+\- Sehr intensiver Geschmack, scharf und zugleich süß 
+
+**Nelken**
+
+**Grüner Kardamom**
