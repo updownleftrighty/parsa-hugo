@@ -18,6 +18,26 @@ Wie auch immer, es lohnt sich gewisse Gewürze vorrätig zu haben, da diese der 
 
 Tipp: Im türkischen Supermarkt sind alle genannten Gewürze günstig zu bekommen. 
 
+**Unverzichtbare Basics**
+
+\- Meersalz 
+
+\- Schwarze Pfefferkörner (zum selbst mahlen)
+
+\- Weißer gemahlener Pfeffer
+
+\- Cayenne-Pfeffer
+
+\- Getrockneter Oregano
+
+\- Getrockneter Basilikum
+
+\- Getrockneter Majoran
+
+\- Getrockneter Thymian
+
+\- Süßes & scharfes Paprikapulver (wir verwenden auch gerne "Aci Toz Biber" aus dem türkischen Supermarkt, für Leute die es etwas schärfer mögen)
+
 **Gemahlener Kreuzkümmel (auch Kumin/Cumin genannt)**
 
 \- Auf gar keinen Fall mit Kümmel verwechseln!
@@ -49,3 +69,7 @@ Tipp: Im türkischen Supermarkt sind alle genannten Gewürze günstig zu bekomme
 **Nelken**
 
 **Grüner Kardamom**
+
+**Somak (Sumach)**
+
+**Ganze Muskatnuss**
