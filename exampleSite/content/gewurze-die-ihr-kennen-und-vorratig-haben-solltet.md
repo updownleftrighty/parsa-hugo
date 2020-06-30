@@ -2,7 +2,6 @@
 categories = ["Gewürze"]
 date = ""
 description = ""
-draft = true
 image = ""
 tags = ["Gewürze", "Basics"]
 title = "Gewürze die ihr kennen und vorrätig haben solltet"
