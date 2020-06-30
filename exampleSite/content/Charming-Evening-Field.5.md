@@ -43,11 +43,11 @@ tags:
 >
 > 9\. Die Schüssel abdecken und im Kühlschrank für mindestens 8h-12h gehen lassen. Achtet darauf, dass eure Schüssel das doppelte Volumen des ursprünglichen Teigs hat, ansonsten droht critical overflow.
 >
-> 10\. Ein bis zwei Stunden vor dem Backen sollte man den Teig in zwei gleichgroße Stücke teilen. Vorsichtig zwei Bälle daraus formen und darauf achten, nicht zu viel zu kneten. Der Teig hat lange gebraucht, um die ganze Luft darin zu erzeugen, die möchten wir jetzt nicht am Schluss der Reise wieder rauskneten. Die Bällchen auf ein Backblech legen und von allen Seiten leicht mit Olivenöl bepinseln. Mit Frischhaltefolie abdecken. Das verhindert, dass der Teig an der Oberfläche austrocknet und eine harte Kruste formt.
+> 10\. Ein bis zwei Stunden vor dem Backen sollte man den Teig  aus dem Kühlschrank nehmen und in zwei gleichgroße Stücke teilen. Vorsichtig zwei Bälle formen und darauf achten, nicht zu viel zu kneten. Der Teig hat lange gebraucht, um die ganze Luft darin zu erzeugen, die möchten wir jetzt nicht am Schluss der Reise wieder rauskneten. Die Bällchen auf ein Backblech legen und von allen Seiten leicht mit Olivenöl bepinseln. Mit Frischhaltefolie abdecken. Das verhindert, dass der Teig an der Oberfläche austrocknet und eine harte Kruste formt.
 >
 > ##### Ab diesem Schritt ist es euch überlassen, wie ihr die Pizza ausrollen und backen wollt. Wir haben im Laufe von etlichen unzufriedenen Versuchen die folgende Methode für die optimale Backweise für uns festgestellt
 >
-> 11\. Bevor mit dem Teig gearbeitet wird, wird der Ofen auf höchster Stufe (Ober-/Unterhitze) vorgeheizt. Nun wird der Teigball auf einer bemehlten Arbeitsplatte ausgedehnt. Am einfachsten geht es mit der Hand. Dafür mit der flachen Hand von der Mitte des Teiges aus beginnend nach außen voranarbeiten. So verschiebt man die Masse und die Luft in Richtung Rand und gleichzeitig wird dadurch de Pizza größer. Lasst einen ca 1-2 cm breiten Rand übrig, wo ihr den Teig nicht eindrückt, damit dieser schön luftig bleibt. Währenddessen eine Pfanne auf mittlere bis hohe Hitze erwärmen.
+> 11\. Bevor weiter mit dem Teig gearbeitet wird, wird der Ofen auf höchster Stufe (Ober-/Unterhitze) vorgeheizt. Nun wird der Teigball auf einer bemehlten Arbeitsplatte ausgedehnt. Am einfachsten geht es mit der Hand. Dafür mit der flachen Hand von der Mitte des Teiges aus beginnend nach außen voranarbeiten. So verschiebt man die Masse und die Luft in Richtung Rand und gleichzeitig wird dadurch de Pizza größer. Lasst einen ca 1-2 cm breiten Rand übrig, wo ihr den Teig nicht eindrückt, damit dieser schön luftig bleibt. Währenddessen eine Pfanne auf mittlere bis hohe Hitze erwärmen.
 >
 > **Schaut euch unser Video zum dehnen an!**
 >
