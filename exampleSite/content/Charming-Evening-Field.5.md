@@ -25,11 +25,11 @@ tags:
 
 > ###### **Zubereitung:**
 >
-> 1\. Das Wasser und die Hefe eine eine große Schüssel geben und gut verrühren.
+> 1\. Das Wasser und die Hefe in eine große Schüssel geben und gut verrühren.
 >
-> 2\. Das Mehl und Salz dazugeben und mit einen Kochlöffel lange zusammenrühren, bis der Teig grob miteinander verbunden ist. Der Teig wird sehr feucht auf euch wirken, aber lasst euch davon nicht abschrecken.
+> 2\. Das Mehl und Salz dazugeben und mit einen Kochlöffel so lange zusammenrühren, bis der Teig grob miteinander verbunden ist. Der Teig mag sehr feucht wirken, lasst euch davon aber nicht abschrecken, er muss so sein.
 >
-> 3\. Die Schüssel abdecken und 15 Minuten ruhen lassen
+> 3\. Die Schüssel abdecken und 15 Minuten ruhen lassen.
 >
 > 4\. Nach der Ruhezeit sollte der Teig etwas weicher und leichter zu verarbeiten sein. Jetzt wird der Teig mit dem Kochlöffel weiter verknetet. Ihr setzt dafür mit dem Löffel am Rand zwischen Teig und Schüssel an und "klappt" den Teig auf die gegenüberliegende Seite. Das wiederholt ihr rundherum, so dass jede Stelle einmal zur gegenüberliegenden Seite eingeklappt wurde. Ähnlich wie ein Sternmuster, falls das zur Visualisierung hilft.
 >
