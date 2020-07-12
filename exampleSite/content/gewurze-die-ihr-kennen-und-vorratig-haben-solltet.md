@@ -15,11 +15,11 @@ zutaten = ""
 >
 > Wie auch immer, es lohnt sich gewisse Gewürze vorrätig zu haben, da diese der Schlüssel zu gesundem, vielfältigem und abwechslungsreichem Essen sind. Auch aufgrund der meist sehr langen Haltbarkeit von trockenen Gewürzen, legen wir euch sehr ans Herz folgende Gewürze immer vorrätig zu haben.
 
-> Tipp: Im türkischen Supermarkt sind alle genannten Gewürze günstig zu bekommen. 
+> Tipp: Im türkischen Supermarkt sind alle genannten Gewürze günstig zu bekommen.
 
 > ###### **Unverzichtbare Basics**
 >
-> \- Meersalz 
+> \- Meersalz
 >
 > \- Schwarze Pfefferkörner (zum selbst mahlen)
 >
@@ -35,7 +35,9 @@ zutaten = ""
 >
 > \- Getrockneter Thymian
 >
-> \- Süßes & scharfes Paprikapulver (wir verwenden auch gerne "Aci Toz Biber" aus dem türkischen Supermarkt, für Leute die es etwas schärfer mögen)
+> \- Süßes & scharfes Paprikapulver (wir verwenden auch gerne "Aci Toz Biber" aus dem türkischen Supermarkt, für Leute die es etwas schärfer mögen)  
+> \- Knoblauchpulver  
+> \- Zwiebelpulver
 
 > ###### **Gewürze, die in Binan's Rezepten immer wieder Anwendung finden**
 >
@@ -51,7 +53,7 @@ zutaten = ""
 >
 > \- Getrocknete Koriandersamen und Korianderpulver werden aus getrockneten Korianderfrüchten hergestellt. Sie unterscheiden sich deshalb nicht nur äußerlich, sondern vor allem geschmacklich vom grünen, frischen Koriander
 >
-> **Zimtstangen** 
+> **Zimtstangen**
 >
 > \- Ganze, echte Zimtstangen sind im Geschmack reiner und vollwertiger als der gemahlene (meist gestreckte) im Handel erhältliche Zimt
 >
