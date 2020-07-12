@@ -27,5 +27,6 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- exampleSite/content/coming-soon.md
 - exampleSite/content/gewurze-die-ihr-kennen-und-vorratig-haben-solltet.md
 - exampleSite/content/kichererbsen-curry.md
