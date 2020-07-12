@@ -35,8 +35,10 @@ zutaten = ""
 >
 > \- Getrockneter Thymian
 >
-> \- Süßes & scharfes Paprikapulver (wir verwenden auch gerne "Aci Toz Biber" aus dem türkischen Supermarkt, für Leute die es etwas schärfer mögen)  
-> \- Knoblauchpulver  
+> \- Süßes & scharfes Paprikapulver (wir verwenden auch gerne "Aci Toz Biber" aus dem türkischen Supermarkt, für Leute die es etwas schärfer mögen)
+>
+> \- Knoblauchpulver
+>
 > \- Zwiebelpulver
 
 > ###### **Gewürze, die in Binan's Rezepten immer wieder Anwendung finden**
