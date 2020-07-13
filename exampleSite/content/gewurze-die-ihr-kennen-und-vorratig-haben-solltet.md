@@ -21,7 +21,11 @@ zutaten = ""
 >
 > \- Meersalz
 >
+> ![](/images/meersalz.jpeg)
+>
 > \- Schwarze Pfefferkörner (zum selbst mahlen)
+>
+> ![](/images/schwarzer-pfeffer.jpeg)
 >
 > \- Weißer gemahlener Pfeffer
 >
@@ -37,9 +41,15 @@ zutaten = ""
 >
 > \- Süßes & scharfes Paprikapulver (wir verwenden auch gerne "Aci Toz Biber" aus dem türkischen Supermarkt, für Leute die es etwas schärfer mögen)
 >
+> ![](/images/aci-toz-biber.jpeg)
+>
 > \- Knoblauchpulver
 >
+> ![](/images/knoblauchpulver.jpeg)
+>
 > \- Zwiebelpulver
+>
+> ![](/images/zwiebelgewurz.jpeg)
 
 > ###### **Gewürze, die in Binan's Rezepten immer wieder Anwendung finden**
 >
@@ -68,6 +78,8 @@ zutaten = ""
 > **Nelken**
 >
 > **Grüner Kardamom**
+>
+> **Garam Masala**
 >
 > **Somak (Sumach)**
 >
