@@ -19,14 +19,6 @@ zutaten = ""
 
 > ###### **Unverzichtbare Basics**
 >
-> \- Meersalz
->
-> ![](/images/meersalz.jpeg)
->
-> \- Schwarze Pfefferkörner (zum selbst mahlen)
->
-> ![](/images/schwarzer-pfeffer.jpeg)
->
 > \- Weißer gemahlener Pfeffer
 >
 > \- Cayenne-Pfeffer
@@ -38,6 +30,14 @@ zutaten = ""
 > \- Getrockneter Majoran
 >
 > \- Getrockneter Thymian
+>
+> \- Meersalz
+>
+> ![](/images/meersalz.jpeg)
+>
+> \- Schwarze Pfefferkörner (zum selbst mahlen)
+>
+> ![](/images/schwarzer-pfeffer.jpeg)
 >
 > \- Süßes & scharfes Paprikapulver (wir verwenden auch gerne "Aci Toz Biber" aus dem türkischen Supermarkt, für Leute die es etwas schärfer mögen)
 >
