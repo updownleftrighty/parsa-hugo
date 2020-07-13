@@ -101,6 +101,10 @@ zutaten = ""
 >
 > ![](/images/somak.jpeg)
 >
-> **Ganze Muskatnuss**
+> **Ganze Muskatnüsse**
+>
+> ![](/images/muskatnusse.jpeg)
 >
 > **Getrocknete Lorbeerblätter**
+>
+> ![](/images/lorbeerblatter.jpeg)
