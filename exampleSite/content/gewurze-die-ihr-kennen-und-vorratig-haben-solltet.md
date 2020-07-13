@@ -1,5 +1,5 @@
 +++
-categories = ["Gewürze"]
+categories = []
 date = ""
 description = ""
 image = "/images/unbenannt.png"
