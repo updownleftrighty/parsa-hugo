@@ -2,7 +2,7 @@
 categories = ["Gewürze"]
 date = ""
 description = ""
-image = "/images/kurkuma.jpeg"
+image = "/images/unbenannt.png"
 tags = ["Gewürze", "Basics"]
 title = "Gewürze die ihr kennen und vorrätig haben solltet"
 type = "featured"
