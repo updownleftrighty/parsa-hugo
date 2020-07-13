@@ -59,11 +59,15 @@ zutaten = ""
 >
 > \- Intensiver, kräftiger Geschmack
 >
+> ![](/images/kreuzkummel_kumin.jpeg)
+>
 > **Gemahlener Koriander**
 >
 > \- Nicht zu verwechseln mit frischem Koriander(-kraut)
 >
 > \- Getrocknete Koriandersamen und Korianderpulver werden aus getrockneten Korianderfrüchten hergestellt. Sie unterscheiden sich deshalb nicht nur äußerlich, sondern vor allem geschmacklich vom grünen, frischen Koriander
+>
+> ![](/images/korianderpulver.jpeg)
 >
 > **Zimtstangen**
 >
@@ -71,9 +75,15 @@ zutaten = ""
 >
 > \- Achtet unbedingt darauf _Ceylon_-Zimtstangen zu kaufen, da sich andere Arten von Zimt (z.B. Cassiazimt) geschmacklich unterscheiden
 >
+> ![](/images/zimt.jpeg)
+>
 > **Kurkuma**
 >
+> ![](/images/kurkuma.jpeg)
+>
 > **Sternanis**
+>
+> ![](/images/sternanis.jpeg)
 >
 > **Nelken**
 >
