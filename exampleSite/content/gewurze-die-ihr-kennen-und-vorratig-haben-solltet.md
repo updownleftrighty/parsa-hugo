@@ -87,11 +87,19 @@ zutaten = ""
 >
 > **Nelken**
 >
+> ![](/images/nelken.jpeg)
+>
 > **Grüner Kardamom**
+>
+> ![](/images/gruner-kardamom.jpeg)
 >
 > **Garam Masala**
 >
+> ![](/images/garam-masala.jpeg)
+>
 > **Somak (Sumach)**
+>
+> ![](/images/somak.jpeg)
 >
 > **Ganze Muskatnuss**
 >
