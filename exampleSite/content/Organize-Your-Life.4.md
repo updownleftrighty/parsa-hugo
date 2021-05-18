@@ -9,11 +9,10 @@ tags:
 - Torte
 
 ---
-Am 13.07.2019 haben sich Carina und Kevin in unserem Beisein das JA-Wort gegeben. 
+Am 13.07.2019 haben sich Carina und Kevin in unserem Beisein das JA-Wort gegeben.
 
-Ich hatte die Ehre für die beiden ihre Hochzeitstorte zu backen. Zwar backe ich für mein Leben gerne, eine Hochzeitstorte habe ich allerdings noch nie gebacken. Nach langem Planen und mit viel geschenktem Vertrauen ist ein Ergebnis entstanden, das sich sehen lassen kann. 
+Ich hatte die Ehre für die beiden ihre Hochzeitstorte zu backen. Nach langem Planen und mit viel geschenktem Vertrauen ist ein Ergebnis entstanden, das sich sehen lassen kann.
 
-  
 ![](/images/816254410586212420_img_2491.JPG)
 
 Vor dem Anschneiden: Schere-Stein-Papier
